@@ -1,11 +1,7 @@
-import './App.css';
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      이퍼비,삼퍼비,사퍼비
-    </div>
-  );
+  return <div className="App">2EFUB, 3EFUB, 4EFUB</div>;
 }
 
 export default App;
